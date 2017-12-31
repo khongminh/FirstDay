@@ -57,6 +57,7 @@
     <Compile Include="Token.cs">
       <DependentUpon>WebApiDataModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="UnitOfWork\UnitOfWork.cs" />
     <Compile Include="User.cs">
       <DependentUpon>WebApiDataModel.tt</DependentUpon>
     </Compile>
